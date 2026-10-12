@@ -4,6 +4,7 @@ import MainText from './mainText.jsx'
 import TreeCats from './treeCats.jsx'
 import Product from './product.jsx'
 import { getGifts } from './service/giftService.js'
+import { Analytics } from "@vercel/analytics/next"
 
 function getLowestOptionPrice(gift) {
   if (gift.isFree) return Number.NEGATIVE_INFINITY
