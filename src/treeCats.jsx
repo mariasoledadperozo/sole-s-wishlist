@@ -1,4 +1,3 @@
-import React from 'react';
 import './treeCats.css';
 
 function TreeCats() {

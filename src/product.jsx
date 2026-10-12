@@ -1,4 +1,4 @@
-import React, { useEffect, useId, useRef, useState } from "react";
+import { useEffect, useId, useRef, useState } from "react";
 import "@fontsource/libre-caslon-condensed/400.css";
 import "@fontsource/libre-caslon-condensed/700.css";
 import "./product.css";
