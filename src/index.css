@@ -1,0 +1,11 @@
+html {
+  background-color: red;
+}
+
+:root {
+  --fuente-principal: 'Roboto Mono', monospace;
+}
+
+body {
+  font-family: var(--fuente-principal);
+}

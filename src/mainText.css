@@ -1,0 +1,30 @@
+.default-text{
+    color: #4F494B
+}
+
+.sub-text {
+    font-weight: bold;
+}
+
+.text-box {
+  width: 50%;
+  margin: 0 auto;      
+  text-align: center;  
+  padding-top: 1%;
+}
+
+#first-tape {
+  width: 120px;
+  height: auto;
+}
+
+#second-tape {
+  width: 100px;
+  height: auto;
+}
+
+@media (max-width: 768px) {
+  .text-box {
+    font-size:100%;
+  }
+}

@@ -1,0 +1,21 @@
+html {
+  background-color: #FFFDD0;
+}
+
+.product-section {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1rem;
+  padding: 3rem;
+  width: 80%;
+  margin: 0 auto;
+}
+
+@media (max-width: 600px) {
+  .product-section {
+    grid-template-columns: 1fr;
+    width: 100%;
+    padding: 1rem;
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,987 @@
+[
+  {
+    "id": 1,
+    "slug": "kindle-paperwhite",
+    "name": "Kindle Paperwhite",
+    "description": "Lector de libros electrónicos para leer en cualquier sitio.",
+    "images": [
+      "/img/kindle-paper-white-1.jpg",
+      "/img/kindle-paper-white-2.jpg",
+      "/img/kindle-paper-white-3.jpg"
+    ],
+    "priority": 1,
+    "status": "Available",
+    "options": [
+      {
+        "condition": "SecondHand",
+        "price": 35,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/amazon-kindle-negro-lector-libros-electronicos-1312238430",
+        "storeName": "Wallapop",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 30,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/kindle-amazon-negro-1311708458",
+        "storeName": "Wallapop",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 40,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/amazon-kindle-e-reader-negro-1312152844",
+        "storeName": "Wallapop",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 30,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/kindle-paperwhite-1312359009",
+        "storeName": "Wallapop",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 34,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/ebook-amazon-kindle-libro-electronico-1312388583",
+        "storeName": "Wallapop",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "riot-games-10",
+    "name": "Tarjeta de 10 € Riot Games",
+    "description": "Saldo de 10 € para Riot Games.",
+    "images": [
+      "/img/tarjeta-riot-1.jpg",
+      "/img/tarjeta-riot-2.jpg",
+      "/img/tarjeta-riot-3.jpg"
+    ],
+    "priority": 2,
+    "status": "Available",
+    "options": [
+      {
+        "condition": "New",
+        "price": 10,
+        "currency": "EUR",
+        "url": "https://www.eneba.com/es/riot-games-league-of-legends-gift-card-1240-rp-riot-key-europe?enb_campaign=Main%20Search&enb_content=search%20dropdown%20-%20products&enb_medium=product%20card&enb_source=https%3A%2F%2Fwww.eneba.com%2F&enb_term=1",
+        "storeName": "Eneba",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "hojas-acuarela",
+    "name": "Hojas de acuarela",
+    "description": "Papel especial para pintar con acuarela.",
+    "images": [
+      "/img/papel-acuarela-1.jpg",
+      "/img/papel-acuarela-2.jpg",
+      "/img/papel-acuarela-3.jpg"
+    ],
+    "priority": 3,
+    "status": "Available",
+    "options": [
+      {
+        "condition": "New",
+        "price": 10,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/Hisdricus-Sheets-Watercolor-Paper-300gsm/dp/B0DN5T8CS8/ref=sr_1_4_sspa?crid=1ED1PREIEPUGP&dib=eyJ2IjoiMSJ9.KMCcdvBPVmDifiVJQfvtO9JX9jZdXKVzA2vFard4w-lG-pRK69h5bXgN4AUZvKlxgRDjz1UMP548iV1M0O3tdWTvG9fYU7d6dpR8j8g0ZIxdGfFyOpfsZwljM7n3hdMeEZZHUkVbdyER9BySWq7K3TvGsK3pAPwk2a-xsPJKO6e1OtOwhynG-aLUvoVfcf8AH_Itfmv0NPV4O_qPnj1Enjx58UUxhN6WDDhrKPIs590cNvmImZUIoJARsEDLNJ6g0PwdBn6nA_Td36OHQRVWxJ-GKyhkaD4k1uprp3rqpSI.maP9Zkxfvz28hYpW-4ngyacVoe_6L8UJcWUxch6EdSQ&dib_tag=se&keywords=hojas+acuarelas&qid=1791828271&sprefix=hojas+acuarelas%2Caps%2C126&sr=8-4-spons&aref=goMgcY0Pxj&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "New",
+        "price": 11,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/Artecho-acuarela-cuaderno-bocetos-pintura/dp/B0DC9KKHHP/ref=sr_1_1_sspa?crid=1ED1PREIEPUGP&dib=eyJ2IjoiMSJ9.srxPN-pJ_eJs2ujodelT3QvuJg-TKZ8WBmXWbjWNgHZxinmAN0Pe-mIOtw97t22_fAjyUPCVA5XMSIoZLtBuv1swb5YzStAokKu263b88mGevX8IuULeD1XjKxV7FdZxy4An3oj5KRMM8SaFboUGrQ82HGidYjvCwdza1owS9eu6qRGGrEXzr3v64F8UYIIbH_Itfmv0NPV4O_qPnj1Enjx58UUxhN6WDDhrKPIs591n4il6I9-UaLbB_xrELhaoT51t73AcJfSPLBefjnar9O8QRu0bSVSWYQHf1Gvu0ds.Ri1HuMSMKGGet-gZl8mtbJgXeKhKVu4MyjJUDyLUH9s&dib_tag=se&keywords=hojas%2Bacuarelas&qid=1791828294&sprefix=hojas%2Bacuarelas%2Caps%2C126&sr=8-1-spons&aref=GUJCFIlUYc&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 4.5,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/bloc-acuarela-canson-xl-30-hojas-1299336269",
+        "storeName": "Wallapop",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 5,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/bloc-acuarela-van-bleiswijck-25-hojas-1311023575",
+        "storeName": "Wallapop",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "tinte-manic-panic",
+    "name": "Tinte rosa oscuro Manic Panic",
+    "description": "Tinte de fantasía para el pelo en rosa oscuro, de la marca Manic Panic.",
+    "images": [
+      "/img/tinte-manic-panic-1.jpg",
+      "/img/tinte-manic-panic-2.jpg"
+    ],
+    "priority": 4,
+    "status": "Available",
+    "options": [
+      {
+        "condition": "New",
+        "price": 12.95,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/-/en/Manic-Panic-Fuschia-Classic-Permanent/dp/B002UJMV2Y/ref=sr_1_4?crid=9GW4P7ERF4F5&dib=eyJ2IjoiMSJ9.AgA97-gJVaiYlFzHqCejGoAFO4rQXb6W4F4fI5svfFtN5p1Tu57uoUEMR8BejCJAQBVlTWwj393oZLMajvIUO0JynTY_AKRH7gT-_ih5U_q1YWmDJxBF0CZ1N149en_IsZY-oxVCire43-qzTQrz03Q8gTTOyafb7rJYXp6Mdpnb8Gjk7GHQlG6YOpeoCEmB8PuCzAs6qPaUUrMUZE7rlpxtUKtTlHCpBsp2AZjsFANUl2iF9pwKC734JK52Welnv-6fRMOcfCHFKf0_VH9rBdpYJzWVF3LV6YkGG2n59YU.3DLliuCmKL9OJscyLEMfPVVPW1iL7nGHOGfGqZeZNh8&dib_tag=se&keywords=tinte+rosa+manic+panic&qid=1791828374&sprefix=tinte+rosa+manic+panic%2Caps%2C181&sr=8-4",
+        "storeName": "Amazon",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "el-cuento-de-la-criada",
+    "name": "El cuento de la criada",
+    "description": "Libro de Margaret Atwood.",
+    "images": [
+      "/img/el-cuento-de-la-criada-1.jpg",
+      "/img/el-cuento-de-la-criada-2.jpg",
+      "/img/el-cuento-de-la-criada-3.jpg"
+    ],
+    "priority": 5,
+    "status": "Available",
+    "options": [
+      {
+        "condition": "New",
+        "price": 10,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/-/en/Handmaids-Tale-iconic-bestseller-inspired/dp/1784874876/ref=sr_1_3?crid=3KLBMT2VQMMK3&dib=eyJ2IjoiMSJ9.jnValEs8aUkCr9OE6xCBNHcPu-ov_JOHQJgLuUXAXr7EPlAAkq0JOhKPc4BigpVv-rWM272oCq-BOFX18heIIq6rtVXUbOZAdRTFDrICIcoLKol9o0oyunfwpSelLzLiRk_ibkbOlUPEtA2zKrOISjRzbjZOiJfdqJOc-cIli7hGGk-DKMfQoh_0pXByq7p-TuCFOiqaeqTqHTp9U8KxPCbmWtKGiDfqFA_RgTVoc0sj5r8HMRnrvhZV2OsWgx4RC9j-Jfl1e6rK46RairQBSyU7C2rVcgRExHjmsXgKIjE.MoL0qzQhHV1QRlRXpjfG1YYVjIe7D4mPbNWoe2-LVKk&dib_tag=se&keywords=el+cuento+de+la+criada+libro&qid=1791828413&sprefix=el+cuento+de+la+criada+libro%2Caps%2C101&sr=8-3",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "New",
+        "price": 12.3,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/-/en/cuento-criada-Best-Seller-Ficci%C3%B3n/dp/8466377476/ref=sr_1_1?crid=3KLBMT2VQMMK3&dib=eyJ2IjoiMSJ9.jnValEs8aUkCr9OE6xCBNHcPu-ov_JOHQJgLuUXAXr7EPlAAkq0JOhKPc4BigpVv-rWM272oCq-BOFX18heIIq6rtVXUbOZAdRTFDrICIcoLKol9o0oyunfwpSelLzLiRk_ibkbOlUPEtA2zKrOISjRzbjZOiJfdqJOc-cIli7hGGk-DKMfQoh_0pXByq7p-TuCFOiqaeqTqHTp9U8KxPCbmWtKGiDfqFA_RgTVoc0sj5r8HMRnrvhZV2OsWgx4RC9j-Jfl1e6rK46RairQBSyU7C2rVcgRExHjmsXgKIjE.MoL0qzQhHV1QRlRXpjfG1YYVjIe7D4mPbNWoe2-LVKk&dib_tag=se&keywords=el+cuento+de+la+criada+libro&qid=1791828413&sprefix=el+cuento+de+la+criada+libro%2Caps%2C101&sr=8-1",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "New",
+        "price": 8.07,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/-/en/El-cuento-criada-Margaret-Atwood-ebook/dp/B081PGYPVL/ref=sr_1_4?crid=3I31GLLFGGM3R&dib=eyJ2IjoiMSJ9.jnValEs8aUkCr9OE6xCBNHcPu-ov_JOHQJgLuUXAXr5BManDNWY6mUeesPBoIbp-wpJHFqPIxY-mmsAnrhj3s3qbl039kcyJzFsqJDZeTL4rnJp4QyVKh4m6rXTEOJlBCAc41pCnfhntGmtxc_lx8TRzbjZOiJfdqJOc-cIli7jpPbLXA2Z_hSbZxc2R1Nth5qctpFGXG7shmXnwsMwMnybmWtKGiDfqFA_RgTVoc0sj5r8HMRnrvhZV2OsWgx4RC9j-Jfl1e6rK46RairQBS_2MvFZXOB08J7j93_1ew-o.LTJ5FNLG9zrR8Xr_WbRP_mMBExJ0Y6-Ct2T-zQUFDIU&dib_tag=se&keywords=el+cuento+de+la+criada+libro&qid=1791828456&sprefix=el+cuento+de+la+criada+libro%2Caps%2C122&sr=8-4",
+        "storeName": "Amazon Kindle",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 5,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/el-cuento-de-la-criada-edicion-limitada-verano-1312369486",
+        "storeName": "Wallapop",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 10,
+        "currency": "EUR",
+        "url": "https://www.vinted.es/items/10345834036-el-cuento-de-la-criada?referrer=catalog",
+        "storeName": "Vinted",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "todos-quieren-a-daisy-jones",
+    "name": "Todos quieren a Daisy Jones",
+    "description": "Libro de Taylor Jenkins Reid.",
+    "images": [
+      "/img/todos-quiere-a-daisy-jones-1.jpg",
+      "/img/todos-quiere-a-daisy-jones-2.jpg",
+      "/img/todos-quiere-a-daisy-jones-3.jpg"
+    ],
+    "priority": 6,
+    "status": "Available",
+    "options": [
+      {
+        "condition": "New",
+        "price": 12,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/-/en/Daisy-Jones-Six-California-crossover/dp/1787462145/ref=sr_1_2?crid=28S75JC8N33QQ&dib=eyJ2IjoiMSJ9.tr3FAG0v2joDIY5RC80poNBOqlK982My5l1_HrYRcjuujI9S6j3bmU4jdkVdwYdrqru1Z3jKZq9rGqQ5wyK48evthMqbV0m-8jvs-kTC7Y_KgRolJY4RNaKTB4YJw-_30cG-t9y8368ku0XVpP2t4A._6L1YNL5Dnhr2mmS3k8_gSYKHqr1rsNT9b-YTVIgilk&dib_tag=se&keywords=todos+quieren+a+daisy+jones&psr=EY17&qid=1791828577&s=todays-deals&sprefix=todos+quieren+a+daisy+jones%2Ctodays-deals%2C89&sr=1-2",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 4,
+        "currency": "EUR",
+        "url": "https://www.vinted.es/items/10214410342-libro-todos-quieren-a-daisy-jones?referrer=catalog",
+        "storeName": "Vinted",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 5,
+        "currency": "EUR",
+        "url": "https://www.vinted.es/items/10352127355-todos-quieren-a-daisy-jones?referrer=catalog",
+        "storeName": "Vinted",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "my-policeman",
+    "name": "My Policeman",
+    "description": "Libro de Bethan Roberts.",
+    "images": [
+      "/img/my-policeman-1.jpg",
+      "/img/my-policeman-2.jpg",
+      "/img/my-policeman-3.jpg"
+    ],
+    "priority": 7,
+    "status": "Available",
+    "options": [
+      {
+        "condition": "New",
+        "price": 9.58,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/1529115760",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 5,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/my-policeman-1252347853",
+        "storeName": "Wallapop",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 6,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/my-policeman-1232129694",
+        "storeName": "Wallapop",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 5,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/my-policeman-1014528642",
+        "storeName": "Wallapop",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 4.69,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/my-policeman-portada-harry-styles-1169486027",
+        "storeName": "Wallapop",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "ensayo-sobre-la-ceguera",
+    "name": "Ensayo sobre la ceguera",
+    "description": "Libro de José Saramago.",
+    "images": [
+      "/img/ensayo-sobre-la-ceguera-1.jpg",
+      "/img/ensayo-sobre-la-ceguera-2.jpg",
+      "/img/ensayo-sobre-la-ceguera-3.jpg"
+    ],
+    "priority": 8,
+    "status": "Available",
+    "options": [
+      {
+        "condition": "New",
+        "price": 12.3,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/8466350977",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "New",
+        "price": 12.3,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/8490628769",
+        "storeName": "Amazon",
+        "notes": "El enlace parece ser de Ensayo sobre la lucidez; confirmar que corresponde al regalo."
+      },
+      {
+        "condition": "SecondHand",
+        "price": 2.8,
+        "currency": "EUR",
+        "url": "http://www.vinted.es/catalog?search_text=ensayo%20sobre%20la%20ceguera&search_id=4404936953",
+        "storeName": "Vinted",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 5,
+        "currency": "EUR",
+        "url": "https://www.vinted.es/items/10351026438-libro-ensayo-sobre-la-ceguera?referrer=catalog",
+        "storeName": "Vinted",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 4,
+        "currency": "EUR",
+        "url": "https://www.vinted.es/items/10348709794-ensayo-sobre-la-ceguera",
+        "storeName": "Vinted",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "baquetas",
+    "name": "Baquetas",
+    "description": "Baquetas para tocar la batería.",
+    "images": [
+      "/img/baquetas-1.jpg",
+      "/img/baquetas-2.jpg",
+      "/img/baquetas-3.jpg"
+    ],
+    "priority": 9,
+    "status": "Available",
+    "options": [
+      {
+        "condition": "New",
+        "price": 10,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/B0DY7PM8Z7",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "New",
+        "price": 7.99,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/B005HH139S",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "New",
+        "price": 6.9,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/B07B8XVY1M",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 13,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/baquetas-rohema-concert-general-a-1296274461",
+        "storeName": "Wallapop",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 5,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/baquetas-pro-mark-forward-7a-hickory-1303842413",
+        "storeName": "Wallapop",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "pad-bateria",
+    "name": "Pad de batería",
+    "description": "Pad de práctica para estudiar ritmos y rudimentos de batería.",
+    "images": [
+      "/img/bateria-pad-1.jpg",
+      "/img/bateria-pad-2.jpg"
+    ],
+    "priority": 10,
+    "status": "Available",
+    "options": [
+      {
+        "condition": "SecondHand",
+        "price": 35,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/bateria-electronica-portatil-con-pedales-1281604959",
+        "storeName": "Wallapop",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "mouse-cable",
+    "name": "Mouse de cable",
+    "description": "Ratón con cable para el ordenador.",
+    "images": [
+      "/img/mouse-de-cable-1.jpg",
+      "/img/mouse-de-cable-2.jpg",
+      "/img/mouse-de-cable-3.jpg"
+    ],
+    "priority": 11,
+    "status": "Available",
+    "options": [
+      {
+        "condition": "New",
+        "price": 12,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/B09TFH9H1Q",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "New",
+        "price": 11.35,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/B0FRZGW1WS",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "New",
+        "price": 19.9,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/B0FRZGW1WS",
+        "storeName": "Amazon",
+        "notes": "La misma URL aparece con dos precios en los datos proporcionados."
+      },
+      {
+        "condition": "SecondHand",
+        "price": 10,
+        "currency": "EUR",
+        "url": "https://www.vinted.es/items/10314435741-raton-logitech",
+        "storeName": "Vinted",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 9.1,
+        "currency": "EUR",
+        "url": "https://www.vinted.es/items/10339490560-raton-muy-bueno-casi-nada-usado?referrer=catalog",
+        "storeName": "Vinted",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "control-switch-rojo",
+    "name": "Control rojo para Switch",
+    "description": "Mando rojo para Nintendo Switch.",
+    "images": [
+      "/img/control-switch-1.jpg",
+      "/img/control-switch-2.jpg",
+      "/img/control-switch-3.jpg"
+    ],
+    "priority": 12,
+    "status": "Available",
+    "options": [
+      {
+        "condition": "SecondHand",
+        "price": 20,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/mandos-joy-con-nintendo-switch-1311239472",
+        "storeName": "Wallapop",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 13,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/comando-nintendo-switch-vermelho-1311122226",
+        "storeName": "Wallapop",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 16,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/mandos-joy-con-para-nintendo-switch-1309224399",
+        "storeName": "Wallapop",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 25,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/control-nintendo-switch-joy-con-azul-rojo-1312074681",
+        "storeName": "Wallapop",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "mousepad-grande",
+    "name": "Mousepad grande",
+    "description": "Alfombrilla grande para el ratón y el teclado.",
+    "images": [
+      "/img/mousepad-1.jpg",
+      "/img/mousepad-2.jpg",
+      "/img/mousepad-3.jpg"
+    ],
+    "priority": 13,
+    "status": "Available",
+    "options": [
+      {
+        "condition": "New",
+        "price": 17.99,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/B08C5MBG7S",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "New",
+        "price": 16,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/B09PTQB663",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "New",
+        "price": 17.99,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/B0GTT4M9D6",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 12,
+        "currency": "EUR",
+        "url": "https://www.vinted.es/items/10331479187-mousepad-cosmonauts-space-alfombrilla-gaming-xxl?referrer=catalog",
+        "storeName": "Vinted",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 13.3,
+        "currency": "EUR",
+        "url": "https://www.vinted.es/items/9830570642-alfombrilla-sakura-estilo-magico-rosa-cherryblossom-nueva",
+        "storeName": "Vinted",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 20,
+        "currency": "EUR",
+        "url": "https://www.vinted.es/items/10238860901-mousepad-xraypad?referrer=catalog",
+        "storeName": "Vinted",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "kit-agujas-crochet",
+    "name": "Kit de agujas de crochet",
+    "description": "Set de agujas de ganchillo para tejer a crochet.",
+    "images": [
+      "/img/agujas-crochet-1.jpg",
+      "/img/agujas-crochet-2.jpg",
+      "/img/agujas-crochet-3.jpg"
+    ],
+    "priority": 14,
+    "status": "Available",
+    "options": [
+      {
+        "condition": "New",
+        "price": 8.99,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/B0HJV8H2C1",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "New",
+        "price": 11.99,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/B0HHRBHP5J",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "New",
+        "price": 10.99,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/B0GFW5L7P8",
+        "storeName": "Amazon",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "udemy-20",
+    "name": "Gift card Udemy 20 €",
+    "description": "Tarjeta regalo de 20 € para cursos en Udemy.",
+    "images": [
+      "/img/udemy-1.jpg",
+      "/img/udemy-2.jpg",
+      "/img/udemy-3.jpg"
+    ],
+    "priority": 15,
+    "status": "Available",
+    "options": [
+      {
+        "condition": "New",
+        "price": 20,
+        "currency": "EUR",
+        "url": "https://support.udemy.com/hc/es/articles/229231187-C%C3%B3mo-enviar-un-regalo-de-Udemy",
+        "storeName": "Udemy",
+        "buttonLabel": "Sigue esta guía",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "delineador-liquido-negro",
+    "name": "Delineador negro líquido",
+    "description": "Delineador de ojos líquido en color negro.",
+    "images": [
+      "/img/delineador-1.jpg",
+      "/img/delineador-2.jpg",
+      "/img/delineador-3.jpg"
+    ],
+    "priority": 16,
+    "status": "Available",
+    "options": [
+      {
+        "condition": "New",
+        "price": 2.75,
+        "currency": "EUR",
+        "url": "https://www.druni.es/deep-black-eye-liner-wibo-eyeliner-negro-intenso",
+        "storeName": "Druni",
+        "notes": null
+      },
+      {
+        "condition": "New",
+        "price": 3.95,
+        "currency": "EUR",
+        "url": "https://www.druni.es/eyeliner-naturel-vegan-negro-miss-cop",
+        "storeName": "Druni",
+        "notes": null
+      },
+      {
+        "condition": "New",
+        "price": 4.2,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/B081SWBSGH",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "New",
+        "price": 2.44,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/B084GXC77H",
+        "storeName": "Amazon",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "luz-lectura-noche",
+    "name": "Luz de lectura nocturna",
+    "description": "Luz pequeña para leer de noche sin molestar.",
+    "images": [
+      "/img/luz-leer-noche-1.jpg",
+      "/img/luz-leer-noche-2.jpg",
+      "/img/luz-leer-noche-3.jpg"
+    ],
+    "priority": 18,
+    "status": "Available",
+    "options": [
+      {
+        "condition": "New",
+        "price": 9.26,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/B0GJSFBBM6",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "New",
+        "price": 8.99,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/B0C33TNWBN",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "New",
+        "price": 10.04,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/B0FNRQ5B8K",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 8,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/luz-para-leer-1213283581",
+        "storeName": "Wallapop",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 5,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/linterna-de-lectura-led-1294655180",
+        "storeName": "Wallapop",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "dados-dnd",
+    "name": "Dados de D&D",
+    "description": "Set de dados para jugar a Dungeons & Dragons.",
+    "images": [
+      "/img/dados-dnd-1.jpg",
+      "/img/dados-dnd-2.jpg",
+      "/img/dados-dnd-3.jpg"
+    ],
+    "priority": 19,
+    "status": "Available",
+    "options": [
+      {
+        "condition": "New",
+        "price": 7.99,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/B0BV5VR6QG",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "New",
+        "price": 5.97,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/B0BXSVH33G",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "New",
+        "price": 7.99,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/B0F83ZVS29",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 6.5,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/pack-dados-d-d-dragon-verde-1309319385",
+        "storeName": "Wallapop",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 5,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/set-dados-d-d-1272593809",
+        "storeName": "Wallapop",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "peluche-snoopy",
+    "name": "Peluche de Snoopy",
+    "description": "Peluche del personaje Snoopy.",
+    "images": [
+      "/img/snoopy-plush-1.jpg",
+      "/img/snoopy-plush-2.jpg",
+      "/img/snoopy-plush-3.jpg"
+    ],
+    "priority": 20,
+    "status": "Available",
+    "options": [
+      {
+        "condition": "New",
+        "price": 13.77,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/B0HBXRR94W",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "New",
+        "price": 14.95,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/B0HH97ZRGQ",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 5,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/peluche-snoopy-1312440323",
+        "storeName": "Wallapop",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 13,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/peluche-snoopy-30cm-1299333083",
+        "storeName": "Wallapop",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "slug": "pijamas-tramas",
+    "name": "Pijamas de tramas",
+    "description": "Pijama con estampado de tramas.",
+    "images": [
+      "/img/pajamas-1.jpg",
+      "/gifts/pajamas-2.png",
+      "/img/pajamas-3.jpg"
+    ],
+    "priority": 21,
+    "status": "Available",
+    "options": [
+      {
+        "condition": "New",
+        "price": 10.99,
+        "currency": "EUR",
+        "url": "https://www.tramasmas.com/collections/mujer-promo-pijamas-y-camisones?filter.v.availability=1",
+        "storeName": "Tramas",
+        "buttonLabel": "Elige :)",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "slug": "cartas-manualidades",
+    "name": "Cartas y manualidades hechas a mano",
+    "description": "Cartas y manualidades hand made, hechas con cariño.",
+    "isFree": true,
+    "images": [
+      "/img/manualidad-1.jpg",
+      "/img/manualidad-2.jpg",
+      "/img/manualidad-3.jpg"
+    ],
+    "priority": 22,
+    "status": "Available",
+    "options": []
+  },
+  {
+    "id": 23,
+    "slug": "cuaderno-negro-sin-lineas",
+    "name": "Cuaderno negro sin líneas",
+    "description": "Cuaderno negro de hojas lisas, sin líneas.",
+    "images": [
+      "/img/cuaderno-negro-1.jpg",
+      "/img/cuaderno-negro-2.jpg",
+      "/img/cuaderno-negro-3.jpg"
+    ],
+    "priority": 23,
+    "status": "Available",
+    "options": [
+      {
+        "condition": "New",
+        "price": 7,
+        "currency": "EUR",
+        "url": "https://flyingtiger.com/es-es/products/a4-black-notebook-with-rubber-band-2-pcs-3047982",
+        "storeName": "Flying Tiger",
+        "notes": null
+      },
+      {
+        "condition": "New",
+        "price": 3.5,
+        "currency": "EUR",
+        "url": "https://flyingtiger.com/es-es/products/notebook-a5-3047980",
+        "storeName": "Flying Tiger",
+        "notes": null
+      },
+      {
+        "condition": "New",
+        "price": 4,
+        "currency": "EUR",
+        "url": "https://flyingtiger.com/es-es/products/a5-notebook-with-rainbow-edge-3067505",
+        "storeName": "Flying Tiger",
+        "notes": null
+      },
+      {
+        "condition": "New",
+        "price": 3.8,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/B01DN8TEA2",
+        "storeName": "Amazon",
+        "notes": null
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "slug": "hundir-la-flota",
+    "name": "Hundir la flota",
+    "description": "Juego de mesa Hundir la flota.",
+    "images": [
+      "/img/hundir-la-flota-1.jpg",
+      "/img/hundir-la-flota-2.jpg",
+      "/img/hundir-la-flota-3.jpg"
+    ],
+    "priority": 24,
+    "status": "Available",
+    "options": [
+      {
+        "condition": "New",
+        "price": 13.99,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/B0DDNLRWPR",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "New",
+        "price": 9.99,
+        "currency": "EUR",
+        "url": "https://www.amazon.es/dp/B0CRVT8KK4",
+        "storeName": "Amazon",
+        "notes": null
+      },
+      {
+        "condition": "SecondHand",
+        "price": 9,
+        "currency": "EUR",
+        "url": "https://es.wallapop.com/item/juego-battleship-hundir-la-flota-1125578658",
+        "storeName": "Wallapop",
+        "notes": null
+      }
+    ]
+  }
+]

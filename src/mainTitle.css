@@ -1,0 +1,29 @@
+#main-title {
+  padding-top: 5%;
+  width: 28%;
+}
+
+.ajuste {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.star {
+  height: 3rem;
+  padding-top: 5%;
+}
+
+.star-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 5%;
+}
+
+@media (max-width: 768px) {
+  #main-title {
+    width: 60%;
+  }
+}
