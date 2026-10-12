@@ -7,14 +7,14 @@ function MainText() {
     <>
  
     <div className="text-box">
-           <img id="first-tape"  src="./public/img/first-tape.png" alt="tape" />
-        <p class="default-text">
+           <img id="first-tape" src="/img/first-tape.png" alt="tape" />
+        <p className="default-text">
             esta es una pequeña lista de deseos de cumpleaños para entrenar mis
-            habilidades de front-end cómo desarollo de apis en .net para mostrar
+            habilidades de front-end. <br/>
             opciones de primera y segunda mano. <br/>
-         <span class="sub-text">♡ whatever comes from your hands is fully acepted ♡</span>
+         <span className="sub-text">♡ whatever comes from your hands is fully acepted ♡</span>
        </p>  
-        <img id="second-tape" className="second-tape" src="./public/img/second-tape.png" alt="tape" />
+        <img id="second-tape" className="second-tape" src="/img/second-tape.png" alt="tape" />
     </div>
     </>
   )
