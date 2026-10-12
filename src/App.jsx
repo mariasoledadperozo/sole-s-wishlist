@@ -54,6 +54,7 @@ function App() {
         })}
       </section>
       <TreeCats />
+      <Analytics />
     </main>
   )
 }
