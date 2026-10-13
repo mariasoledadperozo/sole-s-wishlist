@@ -1,16 +1,59 @@
-# React + Vite
+# 🎁 Wishlist
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Lista de deseos personal hecha con **React + Vite**, como proyecto de fin de semana.
+Los regalos se cargan desde un archivo JSON y cada uno puede tener varias opciones de compra (nuevo o segunda mano, en distintas tiendas) para comparar precios.
 
-Currently, two official plugins are available:
+## Funcionalidades
+- Catálogo de regalos cargado desde `src/data/gifts.json`
+- Galería de imágenes por regalo
+- Prioridad y estado de cada regalo
+- Varias opciones de compra con precio, tienda y enlace
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tecnologías
+React · Vite · JavaScript (ES6+)
 
-## React Compiler
+## Arrancar
+```bash
+git clone https://github.com/mariasoledadperozo/wishlist.git
+cd wishlist
+npm install
+npm run dev
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Estructura de datos
+Cada regalo en `gifts.json` tiene este formato:
 
-## Expanding the ESLint configuration
+```json
+{
+  "id": 1,
+  "slug": "kindle-paperwhite",
+  "name": "Kindle Paperwhite",
+  "description": "Lector de libros electrónicos para leer en cualquier sitio.",
+  "images": ["/img/kindle-paper-white-1.jpg"],
+  "priority": 1,
+  "status": "Available",
+  "options": [
+    {
+      "condition": "SecondHand",
+      "price": 35,
+      "currency": "EUR",
+      "url": "https://es.wallapop.com/item/...",
+      "storeName": "Wallapop",
+      "notes": null
+    }
+  ]
+}
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+| Campo | Descripción |
+|---|---|
+| `slug` | Identificador legible para la URL |
+| `images` | Rutas dentro de `public/img/` |
+| `priority` | Orden de importancia (1 = más alta) |
+| `status` | Estado del regalo (p. ej. `Available`) |
+| `options` | Dónde comprarlo: estado (`condition`), precio, moneda, enlace, tienda y notas |
+
+## Próximos pasos
+- Filtrar por estado y ordenar por prioridad
+- Mostrar el precio más bajo de cada regalo
+- Desplegar en GitHub Pages
